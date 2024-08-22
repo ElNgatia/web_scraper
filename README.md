@@ -10,9 +10,9 @@
 
 ## Project Description
 
-Problem: The project aims to collect and organize data about beauty products, specifically their names and prices, from the website beautytargetkenya.com. This data is valuable for various purposes, such as price comparison, market analysis, and trend tracking.
+Problem: The project aims to collect and organize data about beauty products, specifically their names and prices, from the website beautytargetke.com. This data is valuable for various purposes, such as price comparison, market analysis, and trend tracking.
 
-Purpose: The primary purpose of the project is to scrape data from beautytargetkenya.com to provide insights into beauty product pricing and availability. It offers a structured dataset that can be used for various data analysis and business intelligence tasks.
+Purpose: The primary purpose of the project is to scrape data from beautytargetke.com to provide insights into beauty product pricing and availability. It offers a structured dataset that can be used for various data analysis and business intelligence tasks.
 
 Motivation: The project was undertaken for several reasons:
 
@@ -86,7 +86,7 @@ These are the main files and directories used in this project. You can explore t
 
 ## Project Status
 
-The project is currently in development. The web scraper is functional and can be used to scrape data from [Beauty Target Kenya](https://beautytargetkenya.com/). However, it is still a work in progress, and there are plans to add more features and functionality in the future.
+The project is currently in development. The web scraper is functional and can be used to scrape data from [Beauty Target Kenya](https://beautytargetke.com/). However, it is still a work in progress, and there are plans to add more features and functionality in the future.
 
 ## Authors
 
